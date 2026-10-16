@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Debpriyo Ghosal</h1>
-<h3 align="center">Full Stack & AI Developer • Mobile & Web • Building things that matter</h3>
+<h1 align="center">Hi 👋, I'm Surojit Das </h1>
+<h3 align="center">Full Stack & AI Developer • Building things that matter</h3>
 
 <p align="center">
   <a href="https://debpriyo.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-debpriyo.is--a.dev-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
